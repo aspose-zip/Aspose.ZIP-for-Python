@@ -1,0 +1,5 @@
+/Output/
+__pycache__/
+.pytest_cache/
+/Lic/*
+!/Lic/README.md
